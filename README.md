@@ -5,3 +5,10 @@ After cloning the project install the dependencies
 ```bash
 npm install
 ```
+## Runing the Project
+Once installation is done you can run the project using the following command from console
+```bash
+npm run dev
+```
+The server will start and then you can test your api end points using postman
+
