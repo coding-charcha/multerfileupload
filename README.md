@@ -5,7 +5,7 @@ After cloning the project install the dependencies
 ```bash
 npm install
 ```
-## Runing the Project
+## Running the Project
 Once installation is done you can run the project using the following command from console
 ```bash
 npm run dev
